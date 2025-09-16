@@ -1,0 +1,6 @@
+# Alles ignorieren ...
+*
+
+# ... außer diesem Notebook
+!Oscar_Ontology.ipynb
+!.gitignore
