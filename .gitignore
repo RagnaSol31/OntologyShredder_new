@@ -3,4 +3,5 @@
 
 # ... außer diesem Notebook
 !Oscar_Ontology.ipynb
+!statistict_for_jusification.ipynb
 !.gitignore
